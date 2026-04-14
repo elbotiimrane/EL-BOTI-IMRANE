@@ -1,22 +1,16 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:16213e&height=200&section=header&text=Imrane%20El%20Boti&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Investment%20Analytics&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+intelligent+financial+systems.;Turning+raw+data+into+investment+signals.;ML+pipelines+%7C+AI+agents+%7C+analytics+dashboards.;Casablanca+Stock+Exchange+%E2%86%92+predictive+models.;Real+estate+intelligence+%7C+regulatory+AI.;Finance+%2B+Data+%2B+AI+%3D+edge.)](https://git.io/typing-svg)
-
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:0a1628&height=200&section=header&text=Imrane%20El%20Boti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Finance%20Student%20%7C%20Data%20%26%20AI%20Enthusiast%20%7C%20Morocco%20🇲🇦&descAlignY=60&descColor=60a5fa&animation=fadeIn" width="100%"/>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Finance+major+who+actually+knows+how+to+code.;Building+real+tools+for+real+investment+decisions.;Where+financial+theory+meets+data+science.;Turning+spreadsheets+into+intelligent+dashboards.;Passionate+about+real+estate+%26+market+analytics." alt="Typing SVG" />
+</a>
 <br/>
-
-[![Location](https://img.shields.io/badge/📍_Morocco-Casablanca-0f3460?style=for-the-badge&labelColor=0d1117)](https://github.com/elbotiimrane)
-[![Focus](https://img.shields.io/badge/Focus-Finance_%26_AI-00d4ff?style=for-the-badge&labelColor=0d1117)](https://github.com/elbotiimrane)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00ff88?style=for-the-badge&logo=vercel&labelColor=0d1117)](https://elbotiimrane.github.io/IMRANESPORTFOLIOJJK/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://www.linkedin.com/in/imrane-el-boti)
-
-</div>
-
----
-
-<div align="center">
-
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/🎓_Student-Finance_Major-0d1b4b?style=for-the-badge&labelColor=0a0a1a&color=3b82f6" />
+<img src="https://img.shields.io/badge/📍_Location-Casablanca,_Morocco-0d1b4b?style=for-the-badge&labelColor=0a0a1a&color=1d4ed8" />
+<img src="https://img.shields.io/badge/🔍_Open_To-Internships_%26_Projects-0d1b4b?style=for-the-badge&labelColor=0a0a1a&color=2563eb" />
+<br/><br/>
 ## `< About Me />`
 
 | | |
