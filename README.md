@@ -31,19 +31,19 @@
 ```python
 class ImraneElBoti:
     def __init__(self):
-        self.name       = "Imrane El Boti"
-        self.status     = "Finance Student 🎓"
-        self.location   = "Casablanca, Morocco 🇲🇦"
-        self.interests  = ["Investment Analysis", "Real Estate Markets", "Financial Modeling"]
+        self.name = "Imrane El Boti"
+        self.status = "Finance Student"
+        self.location = "Casablanca, Morocco"
+        self.interests = ["Investment Analysis", "Real Estate Markets", "Financial Modeling"]
         self.superpower = "I combine finance fundamentals with data & AI tools"
-        self.currently  = "Learning, building, and applying — all at the same time"
+        self.currently = "Learning, building, and applying — all at the same time"
 
     def what_makes_me_different(self):
         return {
-            "finance_brain" : "I understand markets, valuation, and investment logic",
-            "tech_hands"    : "I build dashboards, models, and tools to test those ideas",
-            "focus"         : "Real estate analytics & AI-powered investment tools for Morocco",
-            "mindset"       : "A student who ships real projects, not just theory"
+            "finance_brain": "I understand markets, valuation, and investment logic",
+            "tech_hands": "I build dashboards, models, and tools to test those ideas",
+            "focus": "Real estate analytics & AI-powered investment tools for Morocco",
+            "mindset": "A student who ships real projects, not just theory"
         }
 ```
 
