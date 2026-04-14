@@ -17,10 +17,10 @@
 
 ---
 
-## ⚡ Executive Summary
+## ⚡ The Manifesto: Engineering Alpha
 
 > [!IMPORTANT]
-> **The Thesis:** I solve the "Unstructured Data" problem in MENA Finance. By combining **Gestion-Finance (ENCG)** with **Data Engineering**, I build autonomous systems that ingest raw regulatory noise and output actionable investment signals.
+> **The Thesis:** In the Moroccan and MENA capital markets, the primary bottleneck isn't a lack of data—it's the **asymmetry of unstructured data**. My mission is to build the "Intelligence Layer" that sits between raw market noise and institutional decision-making. By leveraging LLM orchestration, econometric modeling, and high-performance scraping, I turn regulatory filings and market volatility into deterministic signals.
 
 </div>
 
@@ -32,31 +32,34 @@
 [![Skills](https://skillicons.dev/icons?i=python,js,sql,fastapi,flask,react,postgres,docker,git,github,vscode,html,css&theme=dark&perline=13)](https://skillicons.dev)
 
 ### `The Intelligence Layer`
-| Domain | Technologies |
+| Domain | Deep Expertise & Implementation |
 | :--- | :--- |
-| **Data Science** | `Pandas` `Scikit-Learn` `XGBoost` `NumPy` `SciPy` |
-| **AI & NLP** | `Claude 3.5 Sonnet` `Gemini 1.5 Pro` `LLM Agents` `RAG` |
-| **Automation** | `Playwright` `Selenium` `BeautifulSoup` `OCR Pipelines` |
+| **Quantitative Research** | Systematic backtesting, **ROE prediction pipelines**, Panel Econometrics, and Portfolio Risk Scoring (Sharpe/Sortino optimization). |
+| **Agentic AI** | Multi-agent orchestration using **Claude 3.5 & Gemini 1.5 Pro** for autonomous financial report synthesis and valuation narratives. |
+| **Data Engineering** | Scalable ETL pipelines, **Playwright-driven scraping**, OCR for legal document extraction (AMMC/BAM), and Redis-backed caching. |
 
 <br/>
 
 ---
 
-## 🚀 High-Impact Deployment (Projects)
+## 🚀 High-Impact Deployment (Flagship Projects)
 
 ### 🏛 AI Valuation Engine — BVC Equities
-**The Alpha:** Fully autonomous valuation suite (DCF, ANR, Multiples) for Casablanca Stock Exchange listed companies.
-* **Impact:** 85% reduction in manual analysis via agentic report synthesis.
-* **Stack:** `Python` • `Claude API` • `yfinance` • `BeautifulSoup`
+**The Challenge:** Traditional valuation for the 70+ companies on the Casablanca Stock Exchange is manual, slow, and prone to bias.  
+**The Solution:** Built an autonomous engine that scrapes live market data and historical AMMC filings. It applies a weighted consensus model combining **Discounted Cash Flow (DCF)**, **Net Asset Value (ANR)**, and **Comparable Multiples**.  
+* **Impact:** Reduced initial fundamental research time from 6 hours to 45 seconds per ticker.
+* **Stack:** `Python` • `Claude API` • `yfinance` • `BeautifulSoup` • `FastAPI`
 
-### 📋 BVC Analyst Pro
-**The Alpha:** Systematic ingestion engine for AMMC filings with real-time risk scoring and trend detection.
-* **Insight:** Bridges the gap between legal filings and quantitative sentiment metrics.
-* **Stack:** `Playwright` • `FastAPI` • `Gemini API` • `OpenPyXL`
+### 📋 BVC Analyst Pro: Regulatory Radar
+**The Challenge:** Tracking compliance and strategic shifts across Moroccan listed companies requires manual parsing of hundreds of PDF pages.  
+**The Solution:** An end-to-end pipeline that monitors AMMC (Autorité Marocaine du Marché des Capitaux) publications. Using **Gemini 1.5 Pro**, it extracts sentiment, risk factors, and financial KPIs into a structured database.
+* **Insight:** Provides a "Sentiment Map" of the Moroccan market, identifying "Red Flag" signals in regulatory narratives before they hit mainstream news.
+* **Stack:** `Playwright` • `Gemini API` • `OpenPyXL` • `SQLite`
 
-### 🏠 Real Estate Intelligence API
-**The Alpha:** High-performance property aggregator for Moroccan urban centers with automated market summarization.
-* **Stack:** `FastAPI` • `Pydantic` • `Uvicorn` • `SQLite`
+### 📊 Financial Insight: The DuPont Diagnostic Agent
+**The Challenge:** Raw ROE (Return on Equity) numbers are deceptive without understanding the underlying levers (Efficiency, Leverage, Profitability).  
+**The Solution:** An AI-powered diagnostic tool that performs a 3-step and 5-step **DuPont Analysis**. It ingests balance sheets via OCR and generates a natural language report explaining *why* a company's performance is trending.
+* **Stack:** `Python` • `Pandas` • `XGBoost` • `OCR Pipelines`
 
 <br/>
 
@@ -85,6 +88,7 @@
 <div align="center">
 
 ### 🧪 Let's Build the Future of MENA Fintech
+*I am actively seeking collaborations in Quantitative Finance, Private Equity, and Venture Capital.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imrane--el--boti-ff4d00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/imrane-el-boti)
 [![Email](https://img.shields.io/badge/Gmail-imrelboti@gmail.com-ff8800?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:imrelboti@gmail.com)
