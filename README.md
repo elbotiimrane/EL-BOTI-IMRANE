@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Imrane%20El%20Boti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20Builder%20%7C%20Investment%20Analytics&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:0a1628&height=200&section=header&text=Imrane%20El%20Boti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Finance%20Student%20%7C%20Data%20%26%20AI%20Enthusiast%20%7C%20Morocco%20🇲🇦&descAlignY=60&descColor=60a5fa&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions.;Building+AI-powered+investment+tools.;Real+Estate+%2B+Analytics+%2B+Machine+Learning.;Forecasting+the+future%2C+one+model+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Finance+major+who+actually+knows+how+to+code.;Building+real+tools+for+real+investment+decisions.;Where+financial+theory+meets+data+science.;Turning+spreadsheets+into+intelligent+dashboards.;Passionate+about+real+estate+%26+market+analytics." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- LOCATION & STATUS BADGES -->
-<img src="https://img.shields.io/badge/📍_Morocco-Casablanca-302b63?style=for-the-badge&labelColor=0f0c29&color=a78bfa" />
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge&labelColor=0f0c29&color=10b981" />
-<img src="https://img.shields.io/badge/Focus-AI_%2B_Real_Estate_Analytics-informational?style=for-the-badge&labelColor=0f0c29&color=6366f1" />
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/🎓_Student-Finance_Major-0d1b4b?style=for-the-badge&labelColor=0a0a1a&color=3b82f6" />
+<img src="https://img.shields.io/badge/📍_Location-Casablanca,_Morocco-0d1b4b?style=for-the-badge&labelColor=0a0a1a&color=1d4ed8" />
+<img src="https://img.shields.io/badge/🔍_Open_To-Internships_%26_Projects-0d1b4b?style=for-the-badge&labelColor=0a0a1a&color=2563eb" />
 
 <br/><br/>
 
@@ -24,27 +24,27 @@
 <!-- ABOUT ME -->
 <div align="center">
 
-## 🧠 About Me
+## 👋 About Me
 
 </div>
 
 ```python
 class ImraneElBoti:
     def __init__(self):
-        self.name        = "Imrane El Boti"
-        self.username    = "elbotiimrane"
-        self.location    = "Casablanca, Morocco 🇲🇦"
-        self.focus       = ["Data Analytics", "AI Engineering", "Real Estate Intelligence"]
-        self.building    = "Investment-grade dashboards & forecasting systems"
-        self.philosophy  = "Data is the new oil — I build the refinery."
-    
-    def current_mission(self):
-        return [
-            "📊 Turning complex datasets into actionable business intelligence",
-            "🏠 Applying AI to Morocco's real estate & investment landscape",
-            "🤖 Engineering predictive models that drive real decisions",
-            "🌍 Building tools that make institutional-grade analysis accessible"
-        ]
+        self.name       = "Imrane El Boti"
+        self.status     = "Finance Student 🎓"
+        self.location   = "Casablanca, Morocco 🇲🇦"
+        self.interests  = ["Investment Analysis", "Real Estate Markets", "Financial Modeling"]
+        self.superpower = "I combine finance fundamentals with data & AI tools"
+        self.currently  = "Learning, building, and applying — all at the same time"
+
+    def what_makes_me_different(self):
+        return {
+            "finance_brain" : "I understand markets, valuation, and investment logic",
+            "tech_hands"    : "I build dashboards, models, and tools to test those ideas",
+            "focus"         : "Real estate analytics & AI-powered investment tools for Morocco",
+            "mindset"       : "A student who ships real projects, not just theory"
+        }
 ```
 
 <br/>
@@ -53,27 +53,27 @@ class ImraneElBoti:
 
 <div align="center">
 
-## 🎯 Current Focus
+## 🎯 What I'm Working On
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/-Real_Estate_AI-0f0c29?style=for-the-badge&color=6366f1"/><br/>
-  Intelligent property valuation & market trend engines
+<td align="center" width="220">
+  <img src="https://img.shields.io/badge/-📚_Finance_Core-0a0a1a?style=for-the-badge&color=1e3a8a"/><br/><br/>
+  Corporate finance, valuation, financial markets & investment theory
 </td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/-Investment_Tooling-0f0c29?style=for-the-badge&color=8b5cf6"/><br/>
-  Portfolio analytics & decision-support dashboards
+<td align="center" width="220">
+  <img src="https://img.shields.io/badge/-🏠_Real_Estate_Analytics-0a0a1a?style=for-the-badge&color=1d4ed8"/><br/><br/>
+  Studying Moroccan property markets through a data-first lens
 </td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/-Forecasting_Models-0f0c29?style=for-the-badge&color=a78bfa"/><br/>
-  ML-powered predictive systems for financial signals
+<td align="center" width="220">
+  <img src="https://img.shields.io/badge/-🤖_AI_+_Finance-0a0a1a?style=for-the-badge&color=2563eb"/><br/><br/>
+  Applying ML to pricing, forecasting, and investment scoring
 </td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/-Interactive_Viz-0f0c29?style=for-the-badge&color=7c3aed"/><br/>
-  High-fidelity KPI dashboards & geospatial interfaces
+<td align="center" width="220">
+  <img src="https://img.shields.io/badge/-📊_Dashboards-0a0a1a?style=for-the-badge&color=3b82f6"/><br/><br/>
+  Transforming raw financial data into interactive visual tools
 </td>
 </tr>
 </table>
@@ -84,37 +84,39 @@ class ImraneElBoti:
 
 <div align="center">
 
-## ⚡ Tech Stack
+## 🛠️ My Toolkit
+
+*Finance gave me the "what" and "why" — these tools give me the "how"*
 
 <br/>
 
-**Languages & Querying**
+**Programming**
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
 <br/><br/>
 
-**Data, ML & Analytics**
+**Data & Analytics**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
 <br/><br/>
 
-**Infrastructure & Tools**
+**Machine Learning (Learning & Applying)**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postgres,docker,linux&theme=dark" />
-
-<br/><br/>
-
-**Frameworks & Dashboards**
-
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Dash_Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+<br/><br/>
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,notion&theme=dark" />
 
 </div>
 
@@ -124,7 +126,9 @@ class ImraneElBoti:
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
+*I don't just study finance — I build things with it*
 
 </div>
 
@@ -132,70 +136,66 @@ class ImraneElBoti:
 
 <table align="center">
 
-<!-- PROJECT 1 -->
 <tr>
 <td width="50%" valign="top">
 
 ### 🏙️ Real Estate KPI Dashboard
-> **Full-stack analytics platform for Moroccan property markets**
+> **Analytics dashboard for the Moroccan property market**
 
-A production-grade BI dashboard integrating live real estate listings, historical price trends, and neighborhood-level KPIs. Built for property investors and analysts who need institutional-quality insights without institutional overhead.
+A student-built BI dashboard that aggregates real estate listings, visualizes price trends per city and neighborhood, and tracks key market indicators. Built to answer the question: *"Where should you actually invest in Morocco right now?"*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-📊 Price-per-m² heatmaps | 🔍 Comparables engine | 📈 Trend forecasting
+📊 Price-per-m² by zone | 📈 Market trend tracking | 🔍 City comparisons
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗺️ Interactive Investment Map
-> **Geospatial intelligence for real estate deal-sourcing**
+> **Visual tool for spotting real estate opportunities across Morocco**
 
-An interactive map-based platform that overlays investment scoring, ROI estimates, and demand signals across Moroccan cities and districts. Combines web scraping, geocoding, and machine learning to rank opportunities in real time.
+An interactive map that overlays property prices, demand indicators, and estimated yield by district. Designed to make investment research faster and more visual — replacing scattered Excel files with a single interactive interface.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-🌍 District-level scoring | 💹 ROI overlays | 📍 Deal-flow visualization
+🌍 District-level view | 💹 Yield estimates | 📍 Opportunity mapping
 
 </td>
 </tr>
 
-<!-- PROJECT 2 -->
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Property Price Forecaster
-> **Machine learning model for real estate valuation & prediction**
+### 🤖 Property Price Prediction Model
+> **ML model that estimates fair value for Moroccan real estate listings**
 
-An end-to-end ML pipeline that scrapes listings, engineers features (location, surface, amenities, market cycle), and trains gradient-boosted models to predict fair value and price trajectory. Deployed as an interactive Streamlit web app.
+A machine learning project that trains on scraped listing data to predict property prices based on location, surface area, amenities, and market cycle. A hands-on application of both finance valuation concepts and Python ML.
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-🎯 ~89% accuracy | ⚡ Real-time scoring | 🔄 Auto-retraining pipeline
+🎯 Regression model | 📋 Feature engineering | 📉 Valuation gap analysis
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Investment Decision Engine
-> **Automated scoring system for property portfolio optimization**
+### 📊 Financial Analysis & Reporting Tool
+> **Automated financial statement analysis with visual outputs**
 
-A rule-based + ML hybrid system that ingests financial, demographic, and market data to generate a composite investment score per property or zone. Outputs actionable buy/hold/avoid signals with explainability via SHAP.
+A Python-based tool that takes raw financial data (income statement, balance sheet) and automatically computes key ratios, flags anomalies, and generates a clean visual report — combining my finance coursework with data automation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-⚖️ Multi-factor scoring | 📋 Explainable AI | 🏆 Portfolio ranking
+📐 Ratio automation | 🧮 Margin & liquidity tracking | 📁 Clean visual reports
 
 </td>
 </tr>
@@ -212,17 +212,16 @@ A rule-based + ML hybrid system that ingests financial, demographic, and market 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=elbotiimrane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=6366f1&text_color=e2e8f0&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elbotiimrane&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=a78bfa&sideNums=6366f1&dates=94a3b8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=elbotiimrane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=60a5fa&icon_color=3b82f6&text_color=e2e8f0&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elbotiimrane&theme=tokyonight&hide_border=true&background=0a0a1a&ring=60a5fa&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=60a5fa&sideNums=3b82f6&dates=94a3b8" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbotiimrane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbotiimrane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=60a5fa&text_color=e2e8f0&langs_count=8" width="40%" />
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elbotiimrane&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=6366f1&point=e2e8f0&area=true&area_color=302b63" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elbotiimrane&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=60a5fa&line=3b82f6&point=e2e8f0&area=true&area_color=0d1b4b" width="95%"/>
 
 </div>
 
@@ -234,7 +233,7 @@ A rule-based + ML hybrid system that ingests financial, demographic, and market 
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=elbotiimrane&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=elbotiimrane&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
 
 </div>
 
@@ -244,34 +243,50 @@ A rule-based + ML hybrid system that ingests financial, demographic, and market 
 
 <div align="center">
 
+## 💡 My Philosophy
+
+<br/>
+
+> *"Most finance students know the theory. I want to be one of the few who can also build the tools."*
+
+<br/>
+
+I'm a finance student who got tired of doing everything in Excel.<br/>
+So I learned Python. Then SQL. Then dashboards. Then machine learning.<br/>
+Now I build things that actually answer the questions my courses raise.
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📬 Let's Connect
+
+*Open to internships, collaborations, and real-world projects*
 
 <br/>
 
 <a href="mailto:elbotiimrane@gmail.com">
-  <img src="https://img.shields.io/badge/Email-elbotiimrane@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/Email-elbotiimrane@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a" />
 </a>
 
 <a href="https://linkedin.com/in/elbotiimrane">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" />
 </a>
 
 <a href="https://github.com/elbotiimrane">
-  <img src="https://img.shields.io/badge/GitHub-elbotiimrane-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/GitHub-elbotiimrane-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a1a" />
 </a>
 
 <br/><br/>
 
-> *"The goal is not to visualize data — it's to eliminate uncertainty."*
-
-<br/>
-
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=elbotiimrane&style=for-the-badge&color=6366f1&labelColor=0f0c29&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=elbotiimrane&style=for-the-badge&color=3b82f6&labelColor=0a0a1a&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:0a1628,100:0a0a1a&height=120&section=footer" width="100%"/>
 
 </div>
