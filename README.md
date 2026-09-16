@@ -22,7 +22,7 @@
 | | |
 |:---|:---|
 | 🎓 **Education** | Gestion-Finance @ ENCG Settat — Université Hassan 1er |
-| 📍 **Location** | Casablanca, Morocco 🇲🇦 |
+| 📍 **Location** | Fes-Settat, Morocco 🇲🇦 |
 | 🔭 **Focus** | Investment Analytics · AI Agents · ML Pipelines · Financial Dashboards |
 | 💬 **Languages** | Python · SQL · JavaScript · French · Arabic · English |
 | 🚀 **Currently** | Building AI-powered tools for Moroccan capital markets |
